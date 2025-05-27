@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/preet-wadhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preet-wadhwani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/preet-wadhwani-5b1aa91b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preet-wadhwani" height="30" width="40" /></a>
 <a href="https://instagram.com/preet_wadhwani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preet_wadhwani_" height="30" width="40" /></a>
 </p>
 
